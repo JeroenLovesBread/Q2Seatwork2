@@ -1,0 +1,38 @@
+<!DOCTYPE html?
+<html
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+.div1 { 
+  border: 3px outset #CC5404;
+  backround-color: #8D3123;
+
+}
+ backround-color: #8D3123
+ }
+   h2{
+   color: #CC5404 ;
+   text-align: center;
+   font-family: 'Courgette' , cursive;
+   }
+   p{ 
+    font-family: 'Dosis' , sans-serif;
+    margin-left: 10px;
+   }
+</style>
+</head>
+<body bgcolor="#632718">
+<h1>Introduction to div element</h1>
+<div class="div1">
+ <h2>"What's one habit you want to get rid of and one habit you want to keep?"</h2>
+  <p>Answer thr question in 4-5 sentences.</p>
+</div>
+ <br>
+<div class="div2">
+ <h2>Do ou think you're an introvert or an extrovert? Explain why.</h2>
+ <p>Answer the question in 4-5 sentences.</p>
+ </div>
+ <p>Outside div element</p>
+ </body>
+ </html>
